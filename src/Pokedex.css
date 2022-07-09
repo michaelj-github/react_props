@@ -1,0 +1,12 @@
+.Pokedex {
+    text-align: center;
+}
+  
+.Pokedex-header {
+    color: lightslategray
+}
+.Pokedex-grid {
+    display: grid;
+    grid-template-columns: auto auto auto auto;    
+    padding: 10px;
+}  
